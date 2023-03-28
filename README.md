@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm MATIAS CECCI,  Full Stack Developer</h1>
-
-
+ <h1 align="left">Hi 👋, I'm MATIAS CECCI</h1>
+<br/>
+<h1 align="left">  FULL STACK WEB DEVELOPER </h1>
 <br/>
 <h2 align="left">Skills </h2>
 
