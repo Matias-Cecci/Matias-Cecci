@@ -1,7 +1,5 @@
- <h1 align="left">MATIAS CECCI    -    Full-Stack Software Developer</h1>
+<img src="https://res.cloudinary.com/dhqruwnj9/image/upload/v1681474602/banner_github_vrecas.png" />
 
-
-<br/>
 
 <h2 align="left"> Skills </h2>
 
