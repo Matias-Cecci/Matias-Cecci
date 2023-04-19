@@ -34,5 +34,5 @@
 <br/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matias-cecci&label=Profile%20views&color=0e75b6&style=flat" alt="matias-cecci" /> </p>
+<p align="RIGHT"> <img src="https://komarev.com/ghpvc/?username=matias-cecci&label=Profile%20views&color=0e75b6&style=flat" alt="matias-cecci" /> </p>
 
