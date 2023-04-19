@@ -27,11 +27,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MATIAS-CECCI&show_icons=true&theme=dark)  
 
-<h2 align="left"> Connect with me: </h2>
+<h2 align="left"> Conecta conmigo: </h2>
 
 
 <a href="https://www.linkedin.com/in/matias-exequiel-cecci" target="_blank" rel="noreferrer"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="50" height="50"/></a> 
 <br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matias-cecci&label=Profile%20views&color=0e75b6&style=flat" alt="matias-cecci" /> </p>
 
