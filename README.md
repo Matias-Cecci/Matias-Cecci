@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, soy MATIAS CECCI</h1>
 
-<h3 align="center">💻 Full Stack Developer</h3>
+<h3 align="center">💻Software Developer</h3>
 
 <br>
 
- <p> Desarrollador de Software Full-Stack, enfocado en crear soluciones a través de proyectos y aplicaciones web, mediante el uso de tecnologías como Python, JS, React, SQL-Alchemy, conexperiencia comprobable en los sectores de contabilidad y restauración.</p>
+ <p> Desarrollador de Software, enfocado en crear soluciones a través de proyectos y aplicaciones web, mediante el uso de tecnologías como Python, JS, React, SQL-Alchemy, conexperiencia comprobable en los sectores de contabilidad y restauración.</p>
  
 <h3 align="left">Front-End Skills : </h3>
 <p align="left">
